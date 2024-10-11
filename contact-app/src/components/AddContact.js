@@ -1,4 +1,4 @@
-import React from "react";
+
 import React from "react";
 
 class AddContact extends React.components{
@@ -21,4 +21,4 @@ class AddContact extends React.components{
         );
     }
 }
-
+export default AddContact;
